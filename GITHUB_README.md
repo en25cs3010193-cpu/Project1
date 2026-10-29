@@ -24,7 +24,7 @@ Tableau Public demo: **Add your published Tableau Public URL here after publishi
 Download the CSV from `data/`, open Tableau Public Desktop, connect to the CSV, and follow the build guide.
 
 ## Author
-Ankit Kumawat
+Apoorva Mundra
 
 ## License
 For educational use. Verify data rights and cite sources before replacing the sample dataset with external data.
