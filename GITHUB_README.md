@@ -12,8 +12,8 @@ The included CSV is synthetic demonstration data. It is not verified real-world 
 - `documentation/insights_template.md`
 - `tableau/dashboard_specification.md`
 
-## Dashboard
-Tableau Public demo: **Add your published Tableau Public URL here after publishing.**
+## Dashboard AND STORY
+Tableau Public demo: https://public.tableau.com/app/profile/apoorva.mundra/viz/ElectricVehicleMarketPerformanceInsights_17931119708800/Story1
 
 ## Tools
 - Tableau Public
